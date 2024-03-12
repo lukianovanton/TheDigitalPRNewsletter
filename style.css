@@ -380,17 +380,15 @@ body {
 .formkit-alert {
     font-family: "Lato", sans-serif;
     text-align: center;
-    border: 1px solid #e3e3e3;
-    border-radius: 5px;
-    margin: 0 auto 40px;
-    padding: 12px;
-    display: block;
+    font-size: 16px;
+    margin-bottom: 40px;
 }
 
 .formkit-alert-success {
     background: #d3fbeb;
-    border-color: #10bf7a;
+    border: 1px solid #10bf7a;
     color: #0c905c;
+    padding: 16px;
 }
 
 @media screen and (max-width: 1280px) {
