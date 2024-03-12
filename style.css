@@ -31,7 +31,7 @@ body {
 }
 
 .top_block {
-    padding: 168px 0 134px;
+    padding: 120px 0 134px;
     max-width: 1210px;
     margin: 0 auto;
     display: flex;
@@ -40,7 +40,6 @@ body {
 
 .welcome_block {
     max-width: 470px;
-    margin-top: 80px;
     margin-right: 40px;
 }
 
@@ -426,8 +425,8 @@ body {
     }
 
     .top_block {
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 80px;
+        padding-bottom: 80px;
     }
 }
 
@@ -469,10 +468,6 @@ body {
     .welcome_block h4 {
         font-size: 20px;
         line-height: 30px;
-    }
-
-    .top_block {
-        align-items: flex-end;
     }
 
     .clients_wrapper h3 {
@@ -599,7 +594,7 @@ body {
     }
 
     .welcome_block h4 {
-        margin-bottom: 52px;
+        margin-bottom: 34px;
     }
 
     .people_wrapper {
